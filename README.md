@@ -1,2 +1,2 @@
 # Trex-runner
-google trex game
+Google T-rex game
